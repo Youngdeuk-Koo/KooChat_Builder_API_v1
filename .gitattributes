@@ -1,0 +1,2 @@
+checkpoint/chatbot_kogpt2.ckpt filter=lfs diff=lfs merge=lfs -text
+checkpoint/model_-epoch=01-train_loss=20.49.ckpt filter=lfs diff=lfs merge=lfs -text
